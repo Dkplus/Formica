@@ -1,5 +1,8 @@
 # Formica
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/b052c240-e02d-4413-94be-535e09de0e3c/mini.png)](https://insight.sensiolabs.com/projects/b052c240-e02d-4413-94be-535e09de0e3c)
+[![Build Status](https://travis-ci.org/Dkplus/Formica.svg?branch=master)](https://travis-ci.org/Dkplus/Formica)
+
 Formica allows to easily use the builder pattern in your projects e.g. to setup your test data.
 
 ## Installation
