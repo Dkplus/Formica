@@ -1,0 +1,25 @@
+{
+    "name": "dkplus/formica",
+    "description": "Builder pattern",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oskar Pfeifer-Bley",
+            "email": "oskar@programming-php.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Dkplus\\Formica\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^3.1",
+        "ciaranmcnulty/phpspec-typehintedmethods": "^2.0",
+        "squizlabs/php_codesniffer": "^2.7"
+    }
+}
