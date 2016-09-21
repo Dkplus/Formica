@@ -1,6 +1,7 @@
 {
     "name": "dkplus/formica",
-    "description": "Builder pattern",
+    "description": "Formica allows to easily use the builder pattern in your projects e.g. to setup your test data.",
+    "keywords": ["test", "setup", "builder", "test-data"],
     "type": "library",
     "license": "MIT",
     "authors": [
