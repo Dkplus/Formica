@@ -18,7 +18,7 @@ class Builder
     {
         $this->arguments = $arguments;
         $this->staticFactoryMethod = $staticFactoryMethod;
-        $this->class = $class === null ? substr(__CLASS__, 0, -7) : $class;
+        $this->class = $class === null ? substr(get_class($this), 0, -7) : $class;
     }
 
     protected function setArgument($name, $value)
